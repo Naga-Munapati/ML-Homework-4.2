@@ -1,0 +1,1 @@
+Name: Nagalakshmi Munapati, Student Number: 700779224 This Python script uses spaCy to perform Named Entity Recognition (NER) and detect pronoun ambiguity in user-entered text. It identifies entities such as people, organizations, and locations with their labels. If pronouns like he, she, or they appear, it warns of potential ambiguity in reference.
